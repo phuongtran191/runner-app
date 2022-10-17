@@ -83,7 +83,7 @@ function Footer() {
             </li>
             <li className="footer-item">
               <span className="footer-line">Hộp thư:</span>{" "}
-              quocvuongta1023@gmail.com
+              phuongtran.jdan@gmail.com
             </li>
           </ul>
         </Style.FooterItem>
@@ -106,10 +106,10 @@ function Footer() {
         <span>Copyright © 2021 Runner Inn. </span>
         <a
           rel="noopener noreferrer"
-          href="https://github.com/DuongVuongUTE"
+          href="https://github.com/phuongtran191"
           target="_blank"
         >
-          Lập trình bởi Dương Vương
+          Created by Tran Nguyen Cong Phuong
         </a>
       </Style.CopyRight>
     </Style.Footer>
