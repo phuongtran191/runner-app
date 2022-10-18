@@ -4,4 +4,4 @@ cd build
 
 cp index.html 200.html
 
-surge . runner-web.surge.sh
+surge . runner-shoes-app.surge.sh
